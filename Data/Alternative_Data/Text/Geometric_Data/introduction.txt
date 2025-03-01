@@ -1,0 +1,1 @@
+Geometric data can useful when we try to estimate the corporate sales number of each quarter before their quarterly and annually reports are released.
