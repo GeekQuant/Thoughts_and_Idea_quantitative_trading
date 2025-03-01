@@ -1,0 +1,4 @@
+This folder contains all the resources related to different traditional machine learning technique. The target for the reader is not only be able to train model
+but also be able to understand the output of different models and their potential statistical interpretation. 
+
+Knowing the reasonging behind the result is more important than be able to provide the result. :)
