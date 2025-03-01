@@ -1,0 +1,1 @@
+This folder includes all the paper, ideas related to models and portfolio constructions. Including but not limited to trading models for high frequency tradings, alpha strategies. 
