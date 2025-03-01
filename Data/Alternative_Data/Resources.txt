@@ -1,0 +1,6 @@
+1. For an example on how to use the alternative and apply them on investment, one can check the coursera course:
+《Python and Machine-Learning for Asset Management with Alternative Data Sets》. This is a great course in my perspective and provide a very great insight on alternative data set.
+
+2. For the book related to the alternative data set, one can check the book: 
+Alexander Denev_ Saeed Amen - The Book of Alternative Data_ A Guide for Investors Traders and Risk Managers - Wiley (2020)
+This book carefully introduces different alternative data and some basic method to process them. 
