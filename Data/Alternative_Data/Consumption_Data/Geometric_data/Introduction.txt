@@ -1,0 +1,1 @@
+Mobile location data is one of the proxies to estimate consumption data for public companies. Details can be learnt in the paper. 
