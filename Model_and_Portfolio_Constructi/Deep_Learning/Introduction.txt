@@ -1,0 +1,3 @@
+This folder includes all the resources related to deep_learning and reinforcement learning techniques. The DL's  ability in extracting non linear relationship 
+provides better result as well as less interpretability. Due to the low info to noise ratio of the financial data, how to prevent overfitting is 
+one of the important topic in applying DL in finance.
