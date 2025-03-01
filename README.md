@@ -1,5 +1,5 @@
 # Thoughts and Idea in quantitative trading
-This is the place to store all ideas, papers, books thoughts and other related sources on systematic trading and some discovery. 
+This is the place to store all ideas, papers, books, thoughts and other related resources on systematic trading and some discovery. 
 The whole repository includes but not limited to:
 1. Data generation, cleaning and processing. 
 2. Alpha ideas and alpha gerneration
