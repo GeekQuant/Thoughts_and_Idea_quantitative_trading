@@ -1,0 +1,2 @@
+VIN data is specifically used for motor industry. Each new car sent to the market must be registered with a VIN number. Thus this number might be and indication on how 
+many new cars are produced and sent to the market. 
