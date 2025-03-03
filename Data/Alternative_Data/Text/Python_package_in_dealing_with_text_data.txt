@@ -1,0 +1,10 @@
+Some useful packages for text file dealing. 
+
+1. Re :
+  This package is for regular expression in text. 
+  example 1.1 re.compile
+          1.2 re.findall
+
+2. nlkt：
+  This is the natural language tool kit. 
+  
