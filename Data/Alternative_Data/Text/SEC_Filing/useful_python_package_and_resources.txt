@@ -1,0 +1,9 @@
+1. One useful python package to extract and download SEC filing data is 
+
+https://pypi.org/project/sec-edgar-downloader/
+
+2. http://rankandfiled.com/
+This website may help explore SEC filing data
+
+3. https://github.com/LexPredict/openedgar
+ 

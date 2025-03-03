@@ -1,3 +1,0 @@
-One useful python package to extract and download SEC filing data is 
-
-https://pypi.org/project/sec-edgar-downloader/
