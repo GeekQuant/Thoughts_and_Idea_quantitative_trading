@@ -5,7 +5,8 @@ The whole repository includes but not limited to:
 2. Alpha ideas and alpha gerneration based on different data.
 3. Machine learning, deep learning and other portfolio construction technique and different strategies in different frequency and asset classes.
 4. Economics and finance knowledge that might be helpful in understanding the market bahavior and investment strategies and performance.
-5. Book and paper key take away and reviews. 
+5. programming and trading system design.
+7. Book and paper key take away and reviews. 
 
 There might be some experiments based on the codes provided by different paper and academic researchs, however, due to the different liscencing requirement, all these codes and results will not be included in this repository. Instead, there will be independent repositories that inlcude the codes for these experiments. 
 
