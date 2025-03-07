@@ -1,0 +1,1 @@
+Re is a useful package for checking and manipulating regular expression with strings. 
