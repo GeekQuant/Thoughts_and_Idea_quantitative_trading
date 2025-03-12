@@ -24,5 +24,34 @@ Section 1.3 Segmentation of alternative data
   1.1 Physical processes e.g.emperature or luminosity of the place.
   1.2 Individuals e.g. Internet traffic and location data 
   1.3 Institutions e.g. market activity
-2. 
+2. Four stages of data transformation:
+  2.1 Raw data
+  2.2 Processed data
+  2.3 signal
+  2.4 strategy
+
+Section 1.4 Many Vs of the big data
+1. Volume of the data
+  1.1 Refer to the amount of the data generated.
+  1.2 It is increasing. 
+2. Variety of data
+  2.1 Refer to both diversity of the data and format of the data.
+  2.2 It is increasing.
+3. Velocity of the data
+  3.1 Refer to the speed of the data generating.
+  3.2 It is increasing.
+4. Variability of the data
+  4.1 Refer to both the regularity and the inconsistency of the data.
+  4.2 It is increasing.
+5 Veracity of the data
+  5.1 Refer to the confidence or the trust of the data source.
+  5.2 It is decreasing.
+6. Validity of the data
+  6.1 Refer to how confidence of the data is for its intended use. 
+  6.2 It is increasing.
+7. Value of the data
+  7.1 Refer to the business impact of the data.
+  7.2 It is increasing. 
+
+
 
