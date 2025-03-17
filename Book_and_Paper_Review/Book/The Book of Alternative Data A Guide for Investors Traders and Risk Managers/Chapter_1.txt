@@ -64,6 +64,19 @@ years)
 4. Can be used as an complement, but not substitute of the traditional data.
 
 Section 1.6 Who is using alternative data set
-1. 
+1. Quantitative hedge funds have been at the forefront of the usage of and investment in this space.
+2. Limit of using alternative data for large asset management firm is their coverage. Usually larger firm has more capital to allocate. 
+
+Section 1.7 Capacity of a strategy and the alternative data set
+1. To understand whether other market participants are trading similar strategies.
+  1.1 Look at the correlation of the strategy returns against fund returns.
+  1.2 Look at positioning and flow data collected from across the market.
+2. Transaction cost
+  2.1 Not only the spread between execution price and mid price, but also the market impact. 
+  2.2 It has been shown with empirical trading data across many different markets, ranging from equities and options to cryptocurrencies, that there is a square root relationship between the size of our orders and the market impact.
+  2.3 One simple way to understand the capacity of a strategy is to look at the ratio of returns to transaction costs.
+  2.4 It is too labor intensive to deploy large amounts of capital only to niche strategies because it would require a significant amount of research to create and implement many of them.
+  2.5 It is too labor intensive to deploy large amounts of capital only to niche strategies because it would require a significant amount of research to create and implement many of them.
+  2.6 Hence, they are able to run strategies that trade more often, such as high-frequency trading strategies, or those with more illiquid assets.
 
 
