@@ -1,5 +1,4 @@
 Section 1.1: Introduction 
-
 1. In this book, we will go through practical case studies showing how different alternative data
 sources can be profitably employed for different purposes within finance. 
 
@@ -130,7 +129,15 @@ Section 1.8 Dimension of alternative data
   19.2 Sector
   19.3 Asset level
 
+Section 1.9 Who are alternative data vendors
+1. Bloomberg
+  1.1 On their machine readable news
+2. IHS markit 
+  2.1 alternative data on Crude oil shipping.
+3. MasterCard:
+  3.1 credit card data
 
+Section 1.10 Using of alternative data on buyside. 
 
 
 
