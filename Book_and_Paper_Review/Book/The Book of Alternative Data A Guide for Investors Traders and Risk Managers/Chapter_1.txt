@@ -78,5 +78,26 @@ Section 1.7 Capacity of a strategy and the alternative data set
   2.4 It is too labor intensive to deploy large amounts of capital only to niche strategies because it would require a significant amount of research to create and implement many of them.
   2.5 It is too labor intensive to deploy large amounts of capital only to niche strategies because it would require a significant amount of research to create and implement many of them.
   2.6 Hence, they are able to run strategies that trade more often, such as high-frequency trading strategies, or those with more illiquid assets.
+3. Properties that are typical of high-capacity strategies
+  3.1 Returns are less sensitive to increased transaction costs.
+  3.2 Higher amounts of capital can be allocated without negatively impacting returns.
+  3.3 Can be traded on a wide variety of tickers.
+  3.4 Lower frequency.
+  3.5 Higher Sharpe ratio.
+4. Properties that are typical of high-capacity strategies
+  4.1 Returns are sensitive to transaction costs.
+  4.2 Higher amounts of capital will render the strategy loss making.
+  4.3 Restricted to a small number of tickers.
+  4.4 Higher frequency.
+  4.5 Higher Sharpe ratio
+5. Why is this concept of strategy capacity important in the context of alternative data?
+  5.1 Once we know the approximate amount of capital we can deploy to a strategy, it enables us to understand the dollar value we can make, as opposed to purely the percentage returns.
+
+
+
+
+
+
+
 
 
