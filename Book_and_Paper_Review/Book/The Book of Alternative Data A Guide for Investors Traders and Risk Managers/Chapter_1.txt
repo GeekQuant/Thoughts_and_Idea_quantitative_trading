@@ -57,5 +57,13 @@ Section 1.4 Many Vs of the big data
   8.1 Vulnerability, Volatility, and Visualization.
 
 Section 1.5 Why alternative data
+1. Provide investors with insights that can be quickly monetized (a time frame in  the order of months, rather than
+years)
+2. Can be used to flag potential risks.
+3. Can be used to anticipate the performance of the company. 
+4. Can be used as an complement, but not substitute of the traditional data.
+
+Section 1.6 Who is using alternative data set
+1. 
 
 
