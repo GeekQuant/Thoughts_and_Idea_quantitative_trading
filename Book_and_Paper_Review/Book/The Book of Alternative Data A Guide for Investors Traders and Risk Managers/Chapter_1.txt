@@ -53,5 +53,9 @@ Section 1.4 Many Vs of the big data
   7.1 Refer to the business impact of the data.
   7.2 It is increasing. 
 
+8 Some other Vs:
+  8.1 Vulnerability, Volatility, and Visualization.
+
+Section 1.5 Why alternative data
 
 
