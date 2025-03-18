@@ -1,0 +1,18 @@
+The Value of alternative data
+
+1. Introduction
+	1.1. One key question in the discussion about alternative data is how to assign value to it.
+
+2. The decay of investment value
+	2.1. Data, alternative or not, is ultimately used in investing and risk management to make predictions.
+	2.2. Semi-EMH states that all the public information will be incorporated in the price of financial assets. If this is true, then a superior return would be available through inside information or  restricted access to a data.
+	2.3. Alternative or not, could be of little value unless exploited almost immediately after its release, and gains over the market can only be made by having a speed edge. Here are some counter arguments.
+		2.3.1. First, the variety and the multitude of data could make the decay of a signal less rapid.
+		2.3.2. Second, if two investors mine the same dataset, the techniques used to transform the raw data into a signal can be quite different.
+		2.3.3. Third, another factor that contributes to the persistence of the value of a dataset is the different investment mandates, horizons, styles, and risk appetite that investors have.
+		2.3.4. In summary, getting access to the right data at the right time is advantageous for the monetization of a dataset in the likely short opportunity window after it is released. 
+
+3. Data Markets
+	3.1. A data marketplace (also called Data as a Service, or DaaS) is essentially a platform in which data sellers and data buyers connect to buy and sell data from each other.
+	3.2. From a data user perspective, using a marketplace can help to simplify the process. 
+	3.3. 
