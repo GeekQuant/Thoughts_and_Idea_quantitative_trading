@@ -15,4 +15,4 @@ The Value of alternative data
 3. Data Markets
 	3.1. A data marketplace (also called Data as a Service, or DaaS) is essentially a platform in which data sellers and data buyers connect to buy and sell data from each other.
 	3.2. From a data user perspective, using a marketplace can help to simplify the process. 
-	3.3. 
+	3.3.  
