@@ -1,0 +1,7 @@
+1. Key take away of gaussian process regression follows the idea of the gaussian process:
+  1.1 We may estimate or "define" the covariance with defined kernal functions. This could be useful as data in finance usually has auto correlations and 
+further the distance between to point, the smaller the covariance would usually be. 
+  1.2 We may be able to choose different kernel functions. 
+
+2. We have GaussianProcessRegressor in scikit-learn
+3.
