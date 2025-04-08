@@ -1,1 +1,6 @@
-This folder includes all the paper, ideas related to models and portfolio constructions. Including but not limited to trading models for high frequency tradings, alpha strategies. 
+1. This folder includes all the paper, ideas related to models and portfolio constructions. Including but not limited to trading models for high frequency tradings, alpha strategies. 
+2. The key of uderstanding different machine learning and statistical models involve two parts:
+  2.1 Understand the basic theory of the model
+  2.2 Know how to apply the model in the python 
+  2.3 Understand different parameters in the model and how they may affect the result of the model. 
+3. There are some universal techniques that may be able to improve the performance of the model i.e. cross-validation method to prevent overfitting. These techniques can be applied to all models so they should be learnt and tried in every models. 
