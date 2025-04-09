@@ -1,0 +1,13 @@
+1. Introduction
+  1.1 This chapter uses automobile data from IHS markit and introduced two different approach on estimating the performance of the company.
+    1.1.1 Indirect approach: linking alternative data with company fundamental, then linking fundamental to company return. It is more complex to put into production but has more explanatory power
+    1.1.2 Direct approach: Model company return directly from the alternative data. 
+
+2. Data:
+  2.1 Universe: It contains 30 different automobile companies. 
+  2.2 Data is from IHS Markit. 
+  2.3 Data contains three main sections:
+    2.3.1 Light vehicle production (global).
+    2.3.2 Light vehicle sales (global). 
+    2.3.3 US and global new vehicle registrations/sales.
+  2.4 Additionally, appropriate lags have been applied to the data to ensure there is no lookahead bias in the factors. The data collected by the automotive analysts is published monthly with different lags for each country and/or OEM.
