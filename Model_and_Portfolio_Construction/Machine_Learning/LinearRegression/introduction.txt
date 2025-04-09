@@ -1,0 +1,1 @@
+This file contains examples and basic theory related to linear regression. 
