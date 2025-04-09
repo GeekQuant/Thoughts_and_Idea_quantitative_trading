@@ -14,5 +14,7 @@ In general , this repository is a place to share my knowledge, resource and thou
 
 If you find this repository useful, you are very welcomed to star and comment any thoughts or questions you have. :)
 
+# One thoughts I want to share with all those who are interested in systematic investment: The technique, mathematics, statistics knowledge applied in the quantitative investment should serve for purpose of better understanding the investment decision to make instead of using fancy stuff to flex. 
+
 Congran Lu
 2025.03.01
